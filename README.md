@@ -1,5 +1,13 @@
 [![Spotify](https://maybesyn.vercel.app/api/spotify)](https://open.spotify.com/user/64fut0xf4ha5oh7b8ff2ipm2f)
 
+
+
+
+
+
+
+
+
 <h1 align="center">Hi 👋, I'm Deniz aka syn!</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
