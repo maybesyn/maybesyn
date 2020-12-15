@@ -3,7 +3,7 @@
 
 - 🎵 I might be listening to something, you can see here right below :)
 - 🎮 Fun Fact! I love playing games as such as Roblox, Minecraft, Gta V
--  I have 2 [Discord]() Servers
+-  I have 2 [Discord](https://linktr.ee/maybesyn) Servers
 - I love discord.py and discord.js
 - 🤏 I'm 15 Years Old!
 
