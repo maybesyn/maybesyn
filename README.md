@@ -1,7 +1,7 @@
 ### Hi there, I'm Deniz - aka [syn.]() 👋
 
-[![Discord]()](https://discord.gg/ZSJ3VjFj6y)
-[![Discord 2]()](https://discord.gg/ebony)
+[![Discord](https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/discord.svg)](https://discord.gg/ZSJ3VjFj6y)
+[![Discord 2](https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/discord.svg)](https://discord.gg/ebony)
 
 ## I'm a teen, son and a developer!!
 
