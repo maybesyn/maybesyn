@@ -1,9 +1,9 @@
-### Hi there, I'm Deniz - aka [syn.][https://discord.gg/Z4YeGAumFk] 👋
+### Hi there, I'm Deniz - aka [syn.]() 👋
 
-[![Discord](https://simpleicons.org/icons/discord.svg)](https://discord.gg/ZSJ3VjFj6y)
-[![Discord 2](https://simpleicons.org/icons/discord.svg)](https://discord.gg/ebony)
+[![Discord]()](https://discord.gg/ZSJ3VjFj6y)
+[![Discord 2]()](https://discord.gg/ebony)
 
-## I'm a Husband, Father, Developer, and Teacher!!
+## I'm a teen, son and a developer!!
 
 - 🔭 I want to become a developer!!
 - 🌱 I’m currently learning everything 🤣
@@ -12,7 +12,7 @@
 
 ### Spotify Playing 🎧
 
-[[![Spotify](https://maybesyn.vercel.app/api/spotify)](https://open.spotify.com/user/maybesyn)
+[![Spotify](https://maybesyn.vercel.app/api/spotify)](https://open.spotify.com/user/maybesyn)
 
 ### Connect with me:
 
@@ -44,7 +44,7 @@
 
 <!-- YOUTUBE:START -->
 - [Rodionis - my baby loves cocaine](https://www.youtube.com/watch?v=ksYvp64_13g)
-- [Ultimate Guide to Web Development in 2021 & Beyond! | Roadmap 2021+](https://www.youtube.com/watch?v=qON-Lx18qGQ)
+- [Hosting](https://www.youtube.com/watch?v=qON-Lx18qGQ)
 - []()
 - []()
 - []()
@@ -84,7 +84,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="middle" alt="syn GitHub Stats" src="https://github-readme-stats.maybesyn.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+  <img align="middle" alt="syn GitHub Stats" src="https://github-readme-stats.maybesyn.vercel.app/api?username=maybesyn&show_icons=true&hide_border=true" />
 
 </details>
 
