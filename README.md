@@ -4,7 +4,7 @@
 
 
 
-[![syn's github stats](https://github-readme-stats.vercel.app/api?username=maybesyn)](https://github.com/maybesyn/github-readme-stats)
+[![syn's github stats](https://github-readme-stats.vercel.app/api?username=maybesyn&theme=great-gatsby&show_icons=true)](https://github.com/maybesyn/github-readme-stats)
 
 
 
