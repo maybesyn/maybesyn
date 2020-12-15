@@ -1,4 +1,4 @@
-[![Spotify](https://maybesyn.vercel.app/api/spotify)](https://open.spotify.com/user/64fut0xf4ha5oh7b8ff2ipm2f)
+
 
 
 
@@ -6,7 +6,7 @@
 - 🎵 I might be listening to something, you can see here right below :)
 
 
-
+[![Spotify](https://maybesyn.vercel.app/api/spotify)](https://open.spotify.com/user/64fut0xf4ha5oh7b8ff2ipm2f)
 
 
 
@@ -30,3 +30,8 @@
 
 
 [![syn's github stats](https://github-readme-stats.vercel.app/api?username=maybesyn&theme=great-gatsby&show_icons=true)](https://github.com/maybesyn/github-readme-stats)
+
+
+
+
+
