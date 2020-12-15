@@ -4,7 +4,7 @@
 
 
 
-[![syn's github stats](https://github-readme-stats.vercel.app/api?username=maybesyn?theme=great-gatsby)](https://github.com/maybesyn/github-readme-stats)
+[![syn's github stats](https://github-readme-stats.vercel.app/api?username=maybesyn)](https://github.com/maybesyn/github-readme-stats)
 
 
 
@@ -14,7 +14,7 @@
 <h1 align="center">Hi 👋, I'm Deniz aka syn!</h1>
 <h3 align="center">I'm a teenager developer</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me :3</h3>
 <p align="left">
 <a href="https://dev.to/maybbesyn" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="maybbesyn" height="30" width="40" /></a>
 <a href="https://instagram.com/denizzz.py" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="denizzz.py" height="30" width="40" /></a>
