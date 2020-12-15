@@ -1,7 +1,7 @@
 ### Hi there, I'm Deniz - aka [syn.]() 👋
 
-[![Discord](https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/discord.svg)](https://discord.gg/ZSJ3VjFj6y)
-[![Discord 2](https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/discord.svg)](https://discord.gg/ebony)
+[![Discord](width="22px" src=https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/discord.svg)](https://discord.gg/ZSJ3VjFj6y)
+[![Discord 2](width="22px" src=https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/discord.svg)](https://discord.gg/ebony)
 
 ## I'm a teen, son and a developer!!
 
@@ -68,18 +68,6 @@
 
 ---
 
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-1. ❌ Closed PR [#14](4) in []()
-2. 🗣 Commented on [#14]() in []()
-3. ❌ Closed PR [#7]() in []()
-4. 🎉 Merged PR [#6]() in []()
-5. 💪 Opened PR [#259]() in []()
-<!--END_SECTION:activity-->
-
-</details>
 
 <details>
   <summary>:zap: GitHub Stats</summary>
