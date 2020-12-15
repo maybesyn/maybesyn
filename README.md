@@ -1,19 +1,10 @@
-
-
-
-
+<h1 align="center">Hi 👋, I'm Deniz aka syn!</h1>
+<h3 align="center">I'm a teenager developer</h3>
 
 - 🎵 I might be listening to something, you can see here right below :)
 
 
 [![Spotify](https://maybesyn.vercel.app/api/spotify)](https://open.spotify.com/user/64fut0xf4ha5oh7b8ff2ipm2f)
-
-
-
-
-
-<h1 align="center">Hi 👋, I'm Deniz aka syn!</h1>
-<h3 align="center">I'm a teenager developer</h3>
 
 <h3 align="left">Connect with me :3</h3>
 <p align="left">
