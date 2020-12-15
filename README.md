@@ -3,12 +3,12 @@
 
 - 🎵 I might be listening to something, you can see here right below :)
 - 🎮 Fun Fact! I love playing games as such as Roblox, Minecraft, Gta V
--  I have 2 [Discord](https://discord.gg/ZSJ3VjFj6y) [Discord](https://discord.gg/ebony) Servers
+-  I have 2 [Discord]() Servers
 - I love discord.py and discord.js
 - 🤏 I'm 15 Years Old!
 
 
-[Spotify](https://spotify.vercel.app/api/spotify)](https://open.spotify.com/user/64fut0xf4ha5oh7b8ff2ipm2f)
+[![Spotify](https://spotify.vercel.app/api/spotify)](https://open.spotify.com/user/64fut0xf4ha5oh7b8ff2ipm2f)
 
 <h3 align="left">Connect with me :3</h3>
 <p align="left">
