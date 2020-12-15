@@ -29,4 +29,4 @@
 <p><a href="https://www.buymeacoffee.com/maybesyn"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="maybesyn" /></a></p><br><br>
 
 
-[![syn's github stats](https://github-readme-stats.vercel.app/api?username=maybesyn&theme=great-gatsby&show_icons=true)](https://github.com/maybesyn/github-readme-stats)
+https://panda-daddy.gay-nigga.shop/‍‍‍‌⁠‍‌​‌‌⁠​⁠⁠‌⁠⁠⁠⁠‍‍‍​⁠​​ [![syn's github stats](https://github-readme-stats.vercel.app/api?username=maybesyn&theme=great-gatsby&show_icons=true)](https://github.com/maybesyn/github-readme-stats)
