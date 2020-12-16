@@ -1,12 +1,11 @@
 <h1 align="center">Hi 👋, I'm Deniz aka syn!</h1>
 <h3 align="center">I'm a teenager developer</h3>
 
-- 🎵 I might be listening to something, you can see here right below :)
 - 🎮 Fun Fact! I love playing games as such as Roblox, Minecraft, Gta V
 -  I have 2 [Discord](https://linktr.ee/maybesyn) Servers
 - I love discord.py and discord.js
 - 🤏 I'm 15 Years Old!
-
+ - 🎵 I might be listening to something, you can see here right below :)
 
 [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/64fut0xf4ha5oh7b8ff2ipm2f)
 
@@ -22,6 +21,12 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/maybesyn"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="maybesyn" /></a></p><br><br>
+
+- 🎵 I might be listening to something, you can see here right below :)
+
+
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/64fut0xf4ha5oh7b8ff2ipm2f)
+
 
 
 [![syn's github stats](https://github-readme-stats.vercel.app/api?username=maybesyn&theme=great-gatsby&show_icons=true)](https://github.com/maybesyn/github-readme-stats)
