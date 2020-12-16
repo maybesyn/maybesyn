@@ -8,7 +8,7 @@
 - 🤏 I'm 15 Years Old!
 
 
-[![Spotify](https://spotify.vercel.app/api/spotify)](https://open.spotify.com/user/64fut0xf4ha5oh7b8ff2ipm2f)
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/64fut0xf4ha5oh7b8ff2ipm2f)
 
 <h3 align="left">Connect with me :3</h3>
 <p align="left">
