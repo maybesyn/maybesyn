@@ -2,7 +2,7 @@
 <h3 align="center">I'm a teenager developer</h3>
 
 - 🎮 Fun Fact! I love playing games as such as Roblox, Minecraft, Gta V
--  I have a [Discord](https://discord.gg/zruemCweEk) Servers
+-  I have a [Discord](https://discord.gg/zruemCweEk) Server
 - I love discord.py and discord.js
 - 🤏 I'm 15 Years Old!
 - 🎵 I might be listening to something, you can see here right below :)
