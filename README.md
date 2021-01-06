@@ -4,7 +4,7 @@
 - 🎮 Fun Fact! I love playing games as such as Roblox, Minecraft, Gta V
 -  I have a [Discord](https://discord.gg/zruemCweEk) Server
 - I love discord.py and discord.js
-- 🤏 I'm 15 Years Old!
+- 🤏 I'm 16 Years Old!
 - 🎵 I might be listening to something, you can see here right below :)
 - Favorite Song Right Now, 
 
