@@ -3,7 +3,6 @@
 
   - 🎮 Fun Fact! I love playing games as such as Roblox, Minecraft, Gta V
   -  You can contact me mainly in discord my discord id is 794272859186921503
-  -  I love discord.py and discord.js
   - 🤏 I'm 16 Years Old!
   - 🎵 I might be listening to something, you can see here right below :)
   - Favorite Song Right Now, 
