@@ -2,7 +2,6 @@
 <h3 align="center">I'm a teenager developer</h3>
 
   -  You can contact me mainly in discord my discord id is 794272859186921503
-  - 🤏 I'm 16 Years Old!
   - Favorite Song Right Now, 
   - Cavetown - This is home.
   - I'm learning C++, C#, Python, JS, Php, Lua
